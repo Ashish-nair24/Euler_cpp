@@ -1,0 +1,4 @@
+/home/anair/Downloads/cfd-lite-sod1d/build/CMakeFiles/euler2d.dir
+/home/anair/Downloads/cfd-lite-sod1d/build/CMakeFiles/test.dir
+/home/anair/Downloads/cfd-lite-sod1d/build/CMakeFiles/edit_cache.dir
+/home/anair/Downloads/cfd-lite-sod1d/build/CMakeFiles/rebuild_cache.dir

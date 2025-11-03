@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/euler2d.dir/src/fv_euler2d/main.cpp.o -o euler2d 
